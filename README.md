@@ -22,3 +22,4 @@ Take a look at these couple examples that I have in my own portfolio:
 **Recipe Bookster:** https://github.com/jonNtech/RecipeBookster
 **Puedo-travel:** https://https://github.com/jonNtech/Puedo-travel
 **Steakhouse website:** https://github.com/jonNtech/steakhouse-website
+![Jimmy's Pizza](https://user-images.githubusercontent.com/31232174/200433322-04b30bd1-2f16-44d4-9139-d7d8d924a4ae.gif)
